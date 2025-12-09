@@ -1,3 +1,3 @@
 Click or copy the following link to see what the project is
-https://fisumteshome.github.io/Palendrom/
+https://fisumteshome.github.io/Palendrom/ or 
 https://palendrom.vercel.app/
